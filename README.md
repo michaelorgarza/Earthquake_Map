@@ -1,5 +1,5 @@
 #  United States Geological Survey on Earthquake Data
-The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. The purpose of this project is to visualize earthquake data that has the ability to update in real-time (every 5 mins. 
+The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. The purpose of this project is to visualize earthquake data that has the ability to update in real-time (every 5 mins). 
 
 ## Getting Started
 1. **Data Collection Process**
